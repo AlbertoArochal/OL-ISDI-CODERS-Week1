@@ -1,1 +1,1 @@
-const borufio = "mi vida sera breve tb";
+const = "mi vida sera breve"
